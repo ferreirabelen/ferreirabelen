@@ -30,14 +30,6 @@ Aquí tienes algunas ideas para comenzar:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferreirabelen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirabelen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Trofeos de GitHub:
-![](https://github-profile-trophy.vercel.app/?username=ferreirabelen&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Repositorio más contribuido
-![](https://github-contributor-stats.vercel.app/api?username=ferreirabelen&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### ✍️ Frase aleatoria para desarrolladores:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ferreirabelen&icon=2&color=4)](https://visitcount.itsvg.in)
@@ -47,8 +39,3 @@ Aquí tienes algunas ideas para comenzar:
 - **Email**: belenferreirajobs@gmail.com
 
 ------
-
-Crédito: [ferreirabelen](https://github.com/ferreirabelen)
-
-Última edición: 18/11/2023
-
