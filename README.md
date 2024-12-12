@@ -30,12 +30,8 @@ Aquí tienes algunas ideas para comenzar:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferreirabelen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirabelen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=ferreirabelen&icon=2&color=4)](https://visitcount.itsvg.in)
-
-# 📧 Cómo contactarme:
-- [LinkedIn](https://www.linkedin.com/in/belenferreira21/)
-- **Email**: belenferreirajobs@gmail.com
+-----
+## Contacto:
+<a href="https://www.linkedin.com/in/belenferreira21/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a> <a href="mailto:belenferreirajobs@gmail.com">![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
 
 ------
