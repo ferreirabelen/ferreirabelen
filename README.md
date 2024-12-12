@@ -2,6 +2,7 @@
 
 # ✨ Sobre mí:
 Apasionada por la programación, mi enfoque principal está en el desarrollo frontend, como amante de la tecnología estoy constantemente en busca de nuevos desafíos que me permitan crecer y evolucionar en el ámbito del desarrollo web.
+<br/>
 🚀 Pregúntame cualquier cosa, estaré encantada de ayudarte.<br>
 📚 Aprendizaje actual: Actualmente me encuentro aprendiendo Next.js y TypeScript.<br>
 🔍 Mi especialidad: Crar paginas webs asegurandome de reflejar la personalidad y estética de mis clientes.<br>
